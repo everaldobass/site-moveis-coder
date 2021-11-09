@@ -13,7 +13,7 @@
 ## Estrutura do Documento HTML
 - Especificação da Estrutura do Index.
 
-<img src='./site-moveis-coder/img/home.png ' width='100%'/>
+<img src='./moveis-coder/img/home.png ' width='100%'/>
 
 
 #### header
@@ -22,7 +22,7 @@
 - Logo
 - Img
 
-<img src='./site-moveis-coder/img/sobre.png ' width='100%'/>
+<img src='./moveis-coder/img/sobre.png ' width='100%'/>
 
 #### burguer
 - toggle-open
@@ -45,7 +45,7 @@
 - produtos-warapper
 - produtos-item
 
-<img src='./site-moveis-coder/img/produtos.png ' width='100%'/>
+<img src='./moveis-coder/img/produtos.png ' width='100%'/>
 
 #### about
 - container
@@ -58,7 +58,7 @@
 - newletter-wrapper
 - d-flex
 
-<img src='./site-moveis-coder/img/contato.png ' width='100%'/>
+<img src='./moveis-coder/img/contato.png ' width='100%'/>
 
 
 #### footer
